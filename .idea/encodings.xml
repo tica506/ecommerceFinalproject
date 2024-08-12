@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/cart-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/catalog-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/image-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecommerce-springboot-react/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
